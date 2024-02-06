@@ -19,7 +19,7 @@ const Expense = ({ expenses, onDelete }: Props) => {
 
   return (
     <table className="table table-bordered">
-      ={" "}
+      {" "}
       <thead>
         <tr>
           <th>Description</th>
